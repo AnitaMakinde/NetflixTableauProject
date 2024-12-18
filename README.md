@@ -20,6 +20,8 @@ The aim of this project was to create an interactive dashboard to display Netfli
 This is the overview of the dashboard created
 ![Netflix Tableau Viz](https://github.com/user-attachments/assets/70c5ad82-1f0a-41c6-b2da-bd235df56d8a)
 
+### 1️⃣ Employment by Industry
+
 ![image](https://github.com/user-attachments/assets/b0486520-1034-4d54-8c33-8191cf12e777)
 
 ![image](https://github.com/user-attachments/assets/091f3eb7-d1b0-43c0-a2f8-988c07786f3e)
