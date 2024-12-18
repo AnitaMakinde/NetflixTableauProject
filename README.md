@@ -33,3 +33,12 @@ This is the overview of the dashboard created
 ### 4️⃣
 ![image](https://github.com/user-attachments/assets/34f47e90-8bf0-4beb-a4cb-5f6173ea7b69)
 
+## 💡 Key Insights
+
+1. **Industries with the highest employment**: XYZ Industries stood out during this period.  
+2. **Regional highlights**: Employment in London far surpassed other cities.  
+3. **Sub-industry trends**: Sub-industries like ABC saw exponential growth compared to others.
+
+## 🌟 How to Explore the Project
+
+Click the link to see my visualisation on Tableau Public:
