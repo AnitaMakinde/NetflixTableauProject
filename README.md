@@ -20,25 +20,28 @@ The aim of this project was to create an interactive dashboard to display Netfli
 This is the overview of the dashboard created
 ![Netflix Tableau Viz](https://github.com/user-attachments/assets/70c5ad82-1f0a-41c6-b2da-bd235df56d8a)
 
-### 1️⃣ Employment by Industry
+### 1️⃣ Total Movies & TV Shows by Year
 
 ![image](https://github.com/user-attachments/assets/b0486520-1034-4d54-8c33-8191cf12e777)
 
-### 2️⃣
+### 2️⃣ Movies & TV Show Distribution
 ![image](https://github.com/user-attachments/assets/091f3eb7-d1b0-43c0-a2f8-988c07786f3e)
 
-### 3️⃣
+### 3️⃣ Total Movies & TV Shows by Country
 ![image](https://github.com/user-attachments/assets/2965684e-a781-4b72-8a99-ed55007cbdc6)
 
-### 4️⃣
+### 4️⃣ Top 10 genres shown
 ![image](https://github.com/user-attachments/assets/34f47e90-8bf0-4beb-a4cb-5f6173ea7b69)
 
 ## 💡 Key Insights
 
-1. **Industries with the highest employment**: XYZ Industries stood out during this period.  
-2. **Regional highlights**: Employment in London far surpassed other cities.  
-3. **Sub-industry trends**: Sub-industries like ABC saw exponential growth compared to others.
+1. **Total Movies & TV Shows by Year**: After 2015 there is a sharp increase in amount of content available.  
+2. **Movies & TV Show Distribution**: A large proportion of the content available to watch is Movies (68.42%) in comparison to TV Shows making up 31.58%.  
+3. **Total Movies & TV Shows by Country**: The USA is the country of production/origin of Movies & TV Shows with the most shows on Netlfix, followed by India and then the UK 
+4. **Top 10 genres shown**: The genre with the most content on Netflix is Documentaries, followed by Stand Up Comedy
 
+   
 ## 🌟 How to Explore the Project
 
-Click the link to see my visualisation on Tableau Public:
+Click the link to see my visualisation on Tableau Public: https://public.tableau.com/app/profile/anita.makinde/viz/NetflixMoviesTVShowAnalysis/Netflix
+
