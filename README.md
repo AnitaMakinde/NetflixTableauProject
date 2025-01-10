@@ -1,6 +1,6 @@
 # 🎥 Netflix Tableau Visualisation Project (2008-2020)
 
-Welcome to my **Netflix Tableau Visualtion Project**! This project explores Netflix's content globally between **2008 and 2020**, focusing on the type of content, countries, and genres. 🎥🌍
+Welcome to my **Netflix Tableau Visualation Project**! This project explores Netflix's content globally between **2008 and 2020**, focusing on the type of content, countries, and genres. 🎥🌍
 
 ## 🚀 Project Overview
 
